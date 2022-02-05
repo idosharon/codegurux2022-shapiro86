@@ -1,7 +1,7 @@
 %define R_VAR0 0x1234
 %define R_VAR1 0x1234
 %define R_VAR2 0x1234
-%define R_VAR3 0x1234
+%define R_VAR3 1
 %define R_VAR4 0x1234
 %define R_WRITE 0x1234
 
